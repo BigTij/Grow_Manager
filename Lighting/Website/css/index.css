@@ -1,0 +1,70 @@
+p{
+  position: relative;
+}
+div.state{
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  border: 1px solid;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+div.program-box{
+  position: relative;
+  margin-top: 200px;
+}
+div.container{
+  float: left;
+  padding: 10px;
+}
+div.light-area{
+  background-image: url("imgs/cannabis.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  border-radius: 10px;
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin: 10px;
+
+}
+div.connection_popup p.popup_text {
+  visibility: visible;
+  position: absolute;
+  margin-top: 0px;
+}
+.popup_text{
+  position: absolute;
+  margin-bottom: -5px;
+  margin-left: 5px;
+}
+.connection_popup{
+  text-align: center;
+  margin-top: 10px;
+  padding: 5px;
+}
+div.connection_popup{
+  width: 285px;
+  height: 20px;
+  border-radius: 5px;
+  border: 2px solid;
+  text-align: center;
+}
+.exit_popup{
+  background-image: url("imgs/exit.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  position: absolute;
+  margin-left: 265px;
+  height: 15px;
+  width: 15px;
+}
+.connection_popup.hide{
+  visibility: hidden;
+}
+.connection_popup.show{
+  visibility: visible;
+}
