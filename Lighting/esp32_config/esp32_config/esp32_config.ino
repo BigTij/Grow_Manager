@@ -4,6 +4,13 @@
 #include <MySQL_Cursor.h>
 #include <stdio.h>
 
+/*
+
+  28 available output pins on esp32 but see max amp output and
+  how much current it takes to 
+
+*/  
+
 int  Assignation-nb = 1;
 char mysqlUser[] = "esp32";
 char mysqlPWD[] = "Tu63_gQl3+90";

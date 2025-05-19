@@ -1,14 +1,5 @@
-div.Aeroponic{
-  background-color:  rgba(0, 0, 0, 0.6);
-  border-radius: 10px;
-}
-a.Aeroponic-link{
-  
-}
-div.Environment{
-  background-color:  rgba(0, 0, 0, 0.6);
-  border-radius: 10px;
-}
-a.Environment-link{
-
+.link-options-box > div{
+    border: 10px;
+    border-radius: 5px;
+    background-color: rgba(181,181,181,0);
 }
