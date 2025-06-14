@@ -1,0 +1,16 @@
+Sprinkler pump : 32
+Drip pump : 33
+Drain Tank Water Level Sensor: 36
+Drain Pump : 25
+
+Tank1_Mixer_Relay_Pin = 26;
+Tank1_PH_Sensor_Pin = 39;
+Tank1_PPM_Sensor_Pin = 34;
+Tank1_Water_Level_Sensor_Pin_RX = 5;
+Tank1_Water_Level_Sensor_Pin_TX = 8;
+
+Tank2_Mixer_Relay_Pin = 27;
+Tank2_PH_Sensor_Pin = 14;
+Tank2_PPM_Sensor_Pin = 12;
+Tank2_Water_Level_Sensor_Pin_RX = 10;
+Tank2_Water_Level_Sensor_Pin_TX = 11;
