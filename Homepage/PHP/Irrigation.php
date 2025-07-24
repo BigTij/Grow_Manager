@@ -1,9 +1,25 @@
-<div class="Tanks-Nutrients-Box">
+<?php
 
-</div>
-<div class="Tanks-Water-Level-Box">
+?>
+<html>
+    <head>
+        <title>Irrigation</title>
+    </head>
+    <body>
+        <div class="nutrient-tank-1">
+            <div class="info-graph">
 
-</div>
-<div class="Pumps-Box">
+            </div>
+        </div>
+        <div class="nutrient-tank-2">
+            <div class="info=graph">
 
-</div>
+            </div>
+        </div>
+        <div class="drain-tank">
+            <div class="info-graph">
+
+            </div>
+        </div>
+    </body>
+</html>
